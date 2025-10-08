@@ -1,6 +1,6 @@
 <h1 align="center">TV-Movie Web App 🍿🎥</h1>
 
-![TV-Movie](https://github.com/rajeevkrS/TV-Movie-App/assets/124420037/2c2919a8-0688-4b81-a387-432394011ed5)
+![TV-Movie]
 
 ## About:
 
@@ -37,3 +37,4 @@ Contributions are welcome! If you encounter any bugs or have suggestions for new
 3. Make sure to have fun exploring movies 🍿, star 🌟 this repo and contributing to the project!
 
 <h2 align="center">Happy Streaming! 🍿🎬</h2>
+
