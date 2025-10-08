@@ -28,13 +28,11 @@ Contributions are welcome! If you encounter any bugs or have suggestions for new
 
 1. Clone the repository.
 
-   ```bash
-   git clone https://github.com/rajeevkrS/TV-Movie-App
-   ```
 
 2. Open `index.html` in your browser to explore TV-Movie App.
 
 3. Make sure to have fun exploring movies 🍿, star 🌟 this repo and contributing to the project!
 
 <h2 align="center">Happy Streaming! 🍿🎬</h2>
+
 
